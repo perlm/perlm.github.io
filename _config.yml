@@ -85,7 +85,7 @@ author:
   #bio              : "Your biography for the left-hand sidebar"
   #location         : "Location"
   employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=JD+perlmutter"
   googlescholar    : "https://scholar.google.com/citations?user=7QaiSOoAAAAJ&hl=en"
   email            :
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "3896657/jason"
   steam            :
   tumblr           :
-  twitter          : "hasty_data"
+  twitter          :
   vine             :
   weibo            :
   xing             :
