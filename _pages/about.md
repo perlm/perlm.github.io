@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my home page - I'm a data scientist at [Google](https://www.google.com/) with a PhD in computational biophysics. I've put together this home page to collect together some artifacts and hobby projects.
+Most of my time, I'm a husband and father, though I'm also a professional data scientist with an academic background in computational biophysics. This site collects together some artifacts and hobby projects.
