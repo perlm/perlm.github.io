@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Most of my time, I'm a husband and father, though I'm also a professional data scientist with an academic background in computational biophysics. This site collects together some artifacts and hobby projects.
+Husband, father, data scientist, computational biophysicist, and one time I ate two Chipotle Burritos in a single lunch. I put together this site to collect some artifacts and hobby projects.
